@@ -1,0 +1,50 @@
+[
+    {
+        "amount": 234.0,
+        "category": "food",
+        "description": "in the home",
+        "date": "02-06-2023"
+    },
+    {
+        "amount": 234,
+        "category": "security",
+        "description": "home security from dogs",
+        "date": "20-02-23"
+    },
+    {
+        "amount": 7685,
+        "category": "defense",
+        "description": "home security",
+        "date": "23-04-25"
+    },
+    {
+        "amount": 234,
+        "category": "defense",
+        "description": "jifjfs",
+        "date": "12-02-17"
+    },
+    {
+        "amount": 765,
+        "category": "food",
+        "description": "klfn",
+        "date": "12-09-11"
+    },
+    {
+        "amount": 200.0,
+        "category": "food",
+        "description": "in the restornt",
+        "date": "02-03-2009"
+    },
+    {
+        "amount": 2003.0,
+        "category": "food",
+        "description": "in the cafe",
+        "date": "02-03-2014"
+    },
+    {
+        "amount": 300.0,
+        "category": "defence",
+        "description": "in the home",
+        "date": "23-06-2018"
+    }
+]
