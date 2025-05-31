@@ -1,29 +1,29 @@
-# 💰 Personal Expense Tracker (Console App)
+#  Personal Expense Tracker (Console App)
 
 A simple, lightweight Python-based console application to help you track your daily expenses. Designed for personal use — with clean code, menu-driven interface, and data saved in JSON format.
 
 ---
 
-## 📌 Features
+##  Features
 
-- ✅ Add new expense (amount, category, description, date)
-- ✅ View all expenses
-- ✅ Update any existing expense
-- ✅ Delete expense by index
-- ✅ Filter by category
-- ✅ Total expense calculation
-- ✅ Category-wise expense summary
-- ✅ Monthly & yearly expense summary
-- ✅ Save and load data using JSON file
+-  Add new expense (amount, category, description, date)
+-  View all expenses
+-  Update any existing expense
+-  Delete expense by index
+-  Filter by category
+-  Total expense calculation
+-  Category-wise expense summary
+-  Monthly & yearly expense summary
+-  Save and load data using JSON file
 
 ---
 
-## 🛠️ How to Run
+## ============ How to Run
 
-### 🔧 Requirements
+###  ===========Requirements
 - Python 3.x (recommended: Python 3.10+)
 
-### ▶️ Steps
+###  ======================Steps
 
 1. Clone this repo or download ZIP
 2. Make sure `personal_expense_track.py` and `expenses.json` are in the same folder
@@ -32,7 +32,7 @@ A simple, lightweight Python-based console application to help you track your da
 ```bash
 python personal_expense_track.py
 ................................
-📁 Personal Expense Tracker
+ Personal Expense Tracker
 ├── personal_expense_track.py  # Main application file
 ├── expenses.json              # Data file (auto-created)
 └── README.md                  # This file
