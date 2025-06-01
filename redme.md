@@ -56,3 +56,15 @@ python personal_expense_track.py
   "description": "Lunch at restaurant",
   "date": "24-05-2025"
 }
+
+
+================================================================================
+
+# PERSONAL_EXPENSE_TRACKER
+
+Developed by **Arun Kumar**  
+© 2025 Arun Kumar. All rights reserved.
+
+Unauthorized copying, publishing, or claiming this work as your own is strictly prohibited.  
+This project is under the MIT License.
+
